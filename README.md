@@ -1,15 +1,29 @@
-## Project Description/Summary
+# CalculadoraBásica
 
-This project involves wiring up a simple calculator.
+Projeto calculadora básica o primeiro programa que fiz com o objetivo de aprender html, css e Javacript.
 
-## New Things Learned or Refreshed
+## Começando
 
-I spent most my time starring at the screen.I got my numbers to show up but I couldn't figure out how to do the math and make it show up.I thought the easiest way was to use the eval() function but I read in the MDN documentation to never use eval(). So, I got stuck and lost patience.I remember doing a JavaScript calculator project about 5 months ago but it was clear today that that I must have just copied the solution as a code along as Brian Holt typed through it. The code for my previous JavaScript Calculator project is NOTHING like the above code.I ended up watching John's solution and implemented his since I had already been at this problem for more than an hour. Word of caution, the solution above works to the extent that the user uses the calculator flawlessly. If not, there are many use cases in which the code won't work and will throw errors. For example, if someone starts with an * operator instead of a number, the eval() function won't work. You'll get an Uncaught SyntaxError: Unexpected token * at HTMLButtonElement.<anonymous> error.
+Para executar o projeto, será necessário instalar os seguinte programa:
 
-## Time to Code
+- [Node js: Necessário para executar o script](https://nodejs.org/en/)
 
-This took about 2 hours, start to finish, including watching John's solution and then going back to finish my own solution.Lines of CodeThis took 30 lines of code, including comments and white space.
+## Desenvolvimento
 
-## Biggest Take Away(s)
+Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
 
-I couldn't for the life of me remember how I coded my last calculator project. This goes to show that continuous coding and going back to previous problems is just the name of the game. 
+```shell
+cd "diretorio de sua preferencia"
+git clone git@github.com:HugoFillipe/calculadora_Avancada.git
+```
+
+O comando irá baixar todas dependências do projeto e criar um diretório. Assim podendo executar o codigo em algum navegador, se alguma coisa falhar, o console do proprio navegador vai acusar o erro.
+
+## Configuração
+
+Para executar o projeto, só é necessário abrir o arquivo "index.html" para poder customizar o game só é necessario o NodeJs e um editor de texto.
+
+
+## Finalidade
+
+Primeiro programa feito com alguns problemas ... em breve atualizações.
