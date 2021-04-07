@@ -26,4 +26,6 @@ create database aulajpa;
 
 ## Finalidade
 
+Um programa simples que alimenta o banco de dados com 3 usuarios usando o JPA.
+
 Exercitando conceitos basícos de JPA com finalidade de aprender o conceito de mapeamento de dados no MySql.
