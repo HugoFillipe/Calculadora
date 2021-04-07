@@ -24,6 +24,11 @@ Para o projeto é necessario criar uma DataBase com o nome "aulajpa" no MySql pa
 create database aulajpa;
 ```
 
+Após o Data base dê **Run** na aplicação 
+
+e consulte seu Banco de dados com os 3 usuarios dentro da nova tabela **pessoa**
+
+
 ## Finalidade
 
 Um programa simples que alimenta o banco de dados com 3 usuarios usando o JPA.
